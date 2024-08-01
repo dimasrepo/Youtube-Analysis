@@ -48,5 +48,9 @@ The project includes several visualizations, such as:
 ## Reporting
 Reports generated from this analysis provide insights into video performance trends, helping content creators and marketers optimize their strategies. These reports can be used to determine the best times to publish videos and the types of content that are likely to trend.
 
-## Dataset Source
-The dataset is sourced from YouTube's public trending videos data for 2023, providing a comprehensive look at what content captured viewers' attention over the year.
+## Source
+The dataset used in this project can be found at the following link:
+[Youtube Analysis Project](https://github.com/dimasrepo/Youtube-Analysis/tree/main/Youtube_Analysis/data_input)
+
+Report for this project can be found at the following link:
+[Youtube Analysis Project](https://dimasaditya.shinyapps.io/Youtube_Analysis/)
