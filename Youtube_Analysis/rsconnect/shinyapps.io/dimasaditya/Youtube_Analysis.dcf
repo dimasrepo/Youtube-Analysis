@@ -1,0 +1,12 @@
+name: Youtube_Analysis
+title: Youtube_Analysis
+username: dimasaditya
+account: dimasaditya
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12248488
+bundleId: 8800386
+url: https://dimasaditya.shinyapps.io/Youtube_Analysis/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
